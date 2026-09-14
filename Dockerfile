@@ -1,6 +1,6 @@
 FROM phusion/baseimage:resolute
 
-MAINTAINER MarkusMcNugen
+LABEL maintainer="MarkusMcNugen"
 # Forked from atmoz for unRAID
 
 VOLUME /config
